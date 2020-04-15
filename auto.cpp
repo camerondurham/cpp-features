@@ -9,7 +9,6 @@ auto add(X x, Y y) -> decltype(x + y) {
     return x + y;
 }
 
-
 int main()
 {
 
